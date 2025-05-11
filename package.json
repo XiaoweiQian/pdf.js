@@ -2,8 +2,7 @@
   "name": "pdf.js",
   "type": "module",
   "scripts": {
-    "build": "npx gulp generic",
-    "postinstall": "npm run build"
+    "build": "npx gulp generic"
   },
   "devDependencies": {
     "@babel/core": "^7.26.10",
